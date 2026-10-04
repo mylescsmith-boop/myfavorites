@@ -1,2 +1,5 @@
-# myfavorites
-My favorite things for my Git assignment
+myfavorites/
+├── index.html
+├── page2.html
+├── images/
+└── css/
